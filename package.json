@@ -98,7 +98,7 @@
         "cosmiconfig": "^5.0.6",
         "csscomb": "^4.2.0",
         "diff": "^3.3.0",
-        "eslint": "^4.19.1",
+        "eslint": "^5.7.0",
         "js-beautify": "^1.7.5",
         "prettier": "^1.12.1",
         "prettydiff2": "^2.2.7",
