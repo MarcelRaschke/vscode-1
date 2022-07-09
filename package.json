@@ -101,7 +101,7 @@
         "eslint": "^4.19.1",
         "js-beautify": "^1.7.5",
         "prettier": "^1.12.1",
-        "prettydiff2": "^2.2.7",
+        "prettydiff2": "^2.2.8",
         "unibeautify": "^0.17.0"
     },
     "contributes": {
